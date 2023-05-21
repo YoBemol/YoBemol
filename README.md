@@ -11,6 +11,7 @@
 -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,7 +32,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/belenmolinazaruma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maria%20Belen%20Molina-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:belen.molina.z@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:belen.molina.z@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-belen.molina.z@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
